@@ -1,8 +1,8 @@
-<?php
+<?php 
 
 namespace App\Services;
 
-class BookService {
+class AuthService {
     
 }
 
